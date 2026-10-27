@@ -1,5 +1,5 @@
 // Array inicial contendo o nome do aluno e outros exemplos
-const nomes = ["Nome do Aluno", "Afonso", "Henriques"];
+const nomes = ["wesley", "severo", "Henriques"];
 
 // Capturando os elementos do HTML
 const lista = document.getElementById("lista");
